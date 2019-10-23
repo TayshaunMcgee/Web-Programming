@@ -1,5 +1,8 @@
 @import url('burger-style.css');
 
+
+
+
 body{
    background-color: skyblue;
 }
@@ -23,5 +26,5 @@ header {
 #main-nav{
     position: relative; 
     right: 0px;
-
-}
+    transition: right 5s; 
+} 
